@@ -27,14 +27,14 @@ LawMe is an AI-powered chatbot designed to simplify access to judicial services 
 
 ## 🖼️ Screenshots
 
-### 🧑‍⚖️ Chatbot Interface
-![Chat Interface](assets/chat-interface.png)
+### 🧑‍⚖️ Home Page Interface
+![HomePage Interface](assets/Home.png)
 
 ### 📁 Case Submission & Storage
 ![Case Management](assets/case-management.png)
 
-### ⚙️ MongoDB Data View
-![MongoDB Compass](assets/mongodb-compass.png)
+### ⚙️ Profile View
+![profile](assets/profile.png)
 
 > _Note: Replace the above paths with actual image paths in your repo._
 
