@@ -36,8 +36,6 @@ LawMe is an AI-powered chatbot designed to simplify access to judicial services 
 ### ⚙️ Profile View
 ![profile](assets/profile.png)
 
-> _Note: Replace the above paths with actual image paths in your repo._
-
 ---
 
 ## 🛠️ Tech Stack
